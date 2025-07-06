@@ -1,6 +1,12 @@
 # 🗂️ Trello Lite – Full Stack Task Management System (with AI Chatbot)
 
 
+Login Id Password:
+    "email": "tousif7hillsautomobile@gmail.com",
+    "password": "adminPass@123"
+
+
+
 ![image](https://github.com/user-attachments/assets/aabdd8e2-1e11-447c-a9a5-f4b01e4eac5f)
 ![image](https://github.com/user-attachments/assets/81e77af8-b5f6-4c89-ad7b-56d48f9a378b)
 ![image](https://github.com/user-attachments/assets/0eaa248e-31c6-4dc7-b3bc-fac18f1be0d2)
