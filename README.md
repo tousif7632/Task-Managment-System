@@ -1,5 +1,20 @@
 # 🗂️ Trello Lite – Full Stack Task Management System (with AI Chatbot)
 
+
+![image](https://github.com/user-attachments/assets/aabdd8e2-1e11-447c-a9a5-f4b01e4eac5f)
+![image](https://github.com/user-attachments/assets/81e77af8-b5f6-4c89-ad7b-56d48f9a378b)
+![image](https://github.com/user-attachments/assets/0eaa248e-31c6-4dc7-b3bc-fac18f1be0d2)
+![image](https://github.com/user-attachments/assets/7aa5c0b7-92fb-4a78-908d-5d97f0c7f6dc)
+![image](https://github.com/user-attachments/assets/3c48bc62-5f4e-49c1-9c14-40a1a0b48a22)
+![image](https://github.com/user-attachments/assets/24661f1c-1044-442d-b129-69005248fefe)
+![image](https://github.com/user-attachments/assets/194e5ccf-b9ed-4cf6-a9d3-851f75845665)
+
+
+
+
+
+
+
 A simplified Trello-like Task Management System built using **Next.js**, **Node.js**, and **MongoDB** with advanced features like **secure encrypted API communication**, **role-based access**, **email notifications**, **real-time chat**, and an **AI chatbot assistant** for intelligent support.
 
 ---
