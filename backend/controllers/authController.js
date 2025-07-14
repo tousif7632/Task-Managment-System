@@ -3,7 +3,7 @@ const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const { sendEmail } = require('../utils/mailer');
 
-// 🚀 Register Controller
+//Register Controller
 exports.register = async (req, res) => {
   try {
     const { username, email, password, role } = req.body;
@@ -90,7 +90,7 @@ exports.logout = async (req, res) => {
   }
 };
 
-// 👥 Get Users Controller
+//Get Users Controller
 exports.getUsers = async (req, res) => {
   try {
     const users = await User.find({}, { password: 0 }).select('username email role');
